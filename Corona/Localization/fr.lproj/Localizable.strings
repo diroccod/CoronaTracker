@@ -3,13 +3,13 @@
   Corona
 
   Created by Mohammad on 3/22/20.
-  Translation by Clément Knoderer - github.com/Risengan
+  Translation by Di Rocco Damien - github.com/diroccod
   Copyright © 2020 Samabox. All rights reserved.
 */
 
 "case.confirmed" = "Confirmés";
-"case.active" = "Hospitalisés";
-"case.recovered" = "Réanimés";
+"case.active" = "Actifs";
+"case.recovered" = "Guéris";
 "case.deaths" = "Morts";
 "region.world" = "Monde";
 "chart.topCountries" = "Pays les plus touchés";
